@@ -9,3 +9,4 @@ this.food = 'jelly';
 Grub.prototype.eat = function(){}; //This is important - remember, it's not this.eat but Name.prototype.method so it can be the next levels prototype.
 
 //var myGrubbie = new Grub();
+//mini change
