@@ -1,8 +1,8 @@
 {
   "name": "BeesBeesBees",
   "version": "0.0.1",
-  "homepage": "https://github.com/TelegraphAcademy-labs/BeesBeesBees",
-  "description": "Fun with pseudoclassical sub-classing in js (also bees)",
+  "homepage": "https://github.com/DhiMalo/InstantiationPatternsInJS",
+  "description": "Pseudoclassical Sub-Classes in Javascript!",
   "main": "test/index.html",
   "authors": [
     "Telegraph Academy"
